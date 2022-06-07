@@ -1,0 +1,21 @@
+.btn {
+  font-size: medium;
+  margin: 20px;
+  margin-top: 30px;
+}
+
+.input {
+  font-size: large;
+  margin: 20px;
+}
+
+.todo-list {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+.counter {
+  display: flex;
+  justify-content: space-around;
+}
